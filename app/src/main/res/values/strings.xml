@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Digemari</string>
+    <string name="username">Username</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="password">Password</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="masuk">Masuk</string>
+    <string name="failed_login">Username dan password tidak cocok</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="masukkan_nama_lengkap">Masukkan Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="username_email">Username / Email</string>
+    <string name="masukkan_username_email">Masukkan Username / Email</string>
+    <string name="telepon">Telepon</string>
+    <string name="masukkan_telepon">Masukkan Telepon</string>
+    <string name="daftar">Daftar</string>
+    <string name="agronomis">Agronomis</string>
+    <string name="masukkan_agronomis">Masukkan Agronomis</string>
+    <string name="alamat">Alamat</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+    <string name="daftar_sebagai">Daftar Sebagai</string>
+    <string name="pilih_item">Pilih Item</string>
+    <string name="pilih_role">Pilih Role</string>
+
+
+    <string-array name="roles">
+        <item>Distributor</item>
+        <item>Kios</item>
+        <item>Umum</item>
+    </string-array>
+</resources>
